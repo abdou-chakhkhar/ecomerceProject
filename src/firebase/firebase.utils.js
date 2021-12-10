@@ -2,6 +2,8 @@ import firebase from 'firebase/compat/app';
 import 'firebase/compat/firestore';
 import 'firebase/compat/auth';
 
+
+
 const config = {
   apiKey: "AIzaSyCMSnKEJREyHG6mPLOcgyz7WR-f3qzAkm8",
   authDomain: "ecommerceproject-68566.firebaseapp.com",
